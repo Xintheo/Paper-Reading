@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "D:/办公软件/Pandoc/pandoc.exe",
+  "pdflatex": null,
+  "outputFolder": null,
+  "extraArguments": "--reference-doc=H:/02.我的OB笔记/本地OB/01.文献阅读/0-辅助材料/7-输出模板/1-学术模板/NIH模板.docx",
+  "exportFrom": "html"
+}

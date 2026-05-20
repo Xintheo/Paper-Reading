@@ -1,0 +1,526 @@
+{
+  "main": {
+    "id": "324e2b7a0a2aed88",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7e04277e0ecefc",
+        "type": "split",
+        "children": [
+          {
+            "id": "a109914f3289b0e6",
+            "type": "split",
+            "children": [
+              {
+                "id": "90edc53173c4d19f",
+                "type": "tabs",
+                "dimension": 49.94511525795829,
+                "children": [
+                  {
+                    "id": "16c3f6c81639ea5b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/3-AI指令/6-结果-句子改写.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "6-结果-句子改写"
+                    }
+                  },
+                  {
+                    "id": "c1f22c42553ea4f5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/3-AI指令/6-结果-表格分析评分.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "6-结果-表格分析评分"
+                    }
+                  },
+                  {
+                    "id": "a42caee5d1f16c2a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "5-文件夹汇总/0-辅助材料/7-使用手册.base",
+                        "viewName": "1.总览"
+                      },
+                      "icon": "lucide-table",
+                      "title": "7-使用手册"
+                    }
+                  },
+                  {
+                    "id": "f49c540839242ca0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "5-文件夹汇总/3-拟用文件/1.化疗相关肺损伤.base",
+                        "viewName": "5.3.结果"
+                      },
+                      "icon": "lucide-table",
+                      "title": "1.化疗相关肺损伤"
+                    }
+                  },
+                  {
+                    "id": "78a5db14f659e125",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3-拟用文件/1.化疗相关肺损伤/3.结果/1.毒性预测和靶点筛选-步骤归档.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1.毒性预测和靶点筛选-步骤归档"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "e605b6e39b7e5153",
+                "type": "tabs",
+                "dimension": 50.054884742041715,
+                "children": [
+                  {
+                    "id": "bc4dd0efc058b131",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "5-文件夹汇总/0-辅助材料/5-中转站.base",
+                        "viewName": "3.论文书写"
+                      },
+                      "icon": "lucide-table",
+                      "title": "5-中转站"
+                    }
+                  },
+                  {
+                    "id": "64fcfe07e856acfa",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/5-中转站/5-结果-填写表格.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "5-结果-填写表格"
+                    }
+                  },
+                  {
+                    "id": "202f03c0de72ae2a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/5-中转站/5-结果-评分结果.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "5-结果-评分结果"
+                    }
+                  },
+                  {
+                    "id": "23581637b12a6ac2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/5-中转站/5-结果-改写细节.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "5-结果-改写细节"
+                    }
+                  },
+                  {
+                    "id": "921c2651f4008e64",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "5-文件夹汇总/3-拟用文件/1.化疗相关肺损伤.base",
+                        "viewName": "5.3.结果"
+                      },
+                      "icon": "lucide-table",
+                      "title": "1.化疗相关肺损伤"
+                    }
+                  },
+                  {
+                    "id": "7289aa06d8a5c5bc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3-拟用文件/1.化疗相关肺损伤/3.结果/1.毒性预测和靶点筛选-草稿.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1.毒性预测和靶点筛选-草稿"
+                    }
+                  },
+                  {
+                    "id": "16b4d71f06d743f8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "4-临时文件夹/2026-05-20.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-05-20"
+                    }
+                  }
+                ],
+                "currentTab": 6
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "226a4ce1da499318",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ecfdcc3f2192137a",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "5-文件夹汇总/1-文献输入/2-处理后文献.base",
+                    "viewName": "1.总览"
+                  },
+                  "icon": "lucide-table",
+                  "title": "2-处理后文献"
+                }
+              },
+              {
+                "id": "56639aea5e4d3ecd",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "5-文件夹汇总/2-文献摘抄/3-结果.base",
+                    "viewName": "4.计划使用_已勾选"
+                  },
+                  "icon": "lucide-table",
+                  "title": "3-结果"
+                }
+              },
+              {
+                "id": "b4a3e4bf0bbfa620",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "5-文件夹汇总/4-临时文件夹.base",
+                    "viewName": "1.全部"
+                  },
+                  "icon": "lucide-table",
+                  "title": "4-临时文件夹"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f3c145813b44c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "f957f74ea5e4fa9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8c72fc438882f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "da0db952287911d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6ed2f1edbbaa8377",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "25538e138540bc94",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "具体部分"
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "06d755ecf243a3b1",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "2402c04769a6725d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0-辅助材料/1-主页设置/0-自动化/2.摘要处理自动化.md"
+              },
+              "icon": "lucide-info",
+              "title": "2.摘要处理自动化的笔记属性"
+            }
+          },
+          {
+            "id": "a5d414c7d0d926fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5-文件夹汇总/1-文献输入/1-文献原文.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1-文献原文 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288,
+    "collapsed": true
+  },
+  "right": {
+    "id": "128c55eacc93ffde",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f1cdd2eb8755dc",
+        "type": "tabs",
+        "dimension": 40.08620689655172,
+        "children": [
+          {
+            "id": "fd7dcdd756b8fe14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-辅助材料/1-主页设置/1-写作自动化/1.摘要和引言书写.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.摘要和引言书写 的出链列表"
+            }
+          },
+          {
+            "id": "55ef978f5cc6ed6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-辅助材料/1-主页设置/1-写作自动化/1.摘要和引言书写.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1.摘要和引言书写 的反向链接列表"
+            }
+          },
+          {
+            "id": "da3f57792067c17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-辅助材料/1-主页设置/0-自动化/1.视图自动化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.视图自动化"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2c7bf99b5de145d8",
+        "type": "tabs",
+        "dimension": 59.91379310344828,
+        "children": [
+          {
+            "id": "784a7163bbdc5062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-辅助材料/1-主页设置/1-写作自动化/2.方法和结果.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.方法和结果"
+            }
+          },
+          {
+            "id": "16bae5ef43771943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-辅助材料/1-主页设置/1-写作自动化/4.润色和去AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.润色和去AI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "16b4d71f06d743f8",
+  "lastOpenFiles": [
+    "0-辅助材料/5-中转站/5-结果-填写表格.md",
+    "0-辅助材料/3-AI指令/6-结果-句子改写.md",
+    "5-文件夹汇总/2-文献摘抄/3-结果.base",
+    "0-辅助材料/1-主页设置/1-写作自动化/2.方法和结果.md",
+    "3-拟用文件/1.化疗相关肺损伤/3.结果/1.毒性预测和靶点筛选-草稿.md",
+    "0-辅助材料/1-主页设置/0-自动化/1.视图自动化.md",
+    "5-文件夹汇总/2-文献摘抄/2-材料和方法.base",
+    "2-文献摘抄/2-材料和方法/2-具体方法/分子动力学模拟.md",
+    "4-临时文件夹/2026-05-18.md",
+    "5-文件夹汇总/1-文献输入/1-文献原文.base",
+    "5-文件夹汇总/1-文献输入/2-处理后文献.base",
+    "2-文献摘抄/2-材料和方法/2-具体方法/毒性预测.md",
+    "2-文献摘抄/2-材料和方法/2-具体方法/HPA数据库验证.md",
+    "5-文件夹汇总/2-文献摘抄/0-摘要.base",
+    "2-文献摘抄/0-摘要/归因收束.md",
+    "2-文献摘抄/0-摘要/风险警示.md",
+    "2-文献摘抄/0-摘要/方法铺排.md",
+    "0-辅助材料/1-主页设置/0-自动化/3.摘要和引言.md",
+    "1-文献输入/1-文献原文/Advanced oral drug delivery systems Current challenges and emerging technologies.md",
+    "1-文献输入/1-文献原文/Nanoparticles synthesis, properties and promising devices for drug delivery systems a review.md",
+    "0-辅助材料/1-主页设置/0-自动化/2.文献处理自动化.md",
+    "5-文件夹汇总/0-辅助材料/3-AI指令.base",
+    "5-文件夹汇总/3-拟用文件/1.化疗相关肺损伤.base",
+    "0-辅助材料/3-AI指令/1.摘要总结.md",
+    "4-临时文件夹/2026-05-20.md",
+    "0-辅助材料/4-辞典/1.摘要辞典.md",
+    "5-文件夹汇总/0-辅助材料/5-中转站.base",
+    "0-辅助材料/4-辞典/0-元素辞典.md",
+    "5-文件夹汇总/0-辅助材料/4-辞典.base",
+    "0-辅助材料/4-辞典/2.Mermaid辞典.md",
+    "3-拟用文件/1.化疗相关肺损伤/3.结果/1.毒性预测和靶点筛选-步骤归档.md",
+    "2-文献摘抄/3-结果/02.结果元素/毒性预测的结果展示.md",
+    "0-辅助材料/5-中转站/5-结果-改写细节.md",
+    "4-临时文件夹/2026-05-19.md",
+    "5-文件夹汇总/4-临时文件夹.base",
+    "0-辅助材料/5-中转站/5-结果-评分结果.md",
+    "3-文献概览/未命名.canvas",
+    "6-资料汇总/2-中转资料/未命名.canvas",
+    "0-辅助材料/7-输出模板/阅读工作流-试验版备份/1_Shared/obsidian-canvas-creator/assets/template-mindmap-simple.canvas",
+    "0-辅助材料/7-输出模板/阅读工作流-试验版备份/1_Shared/obsidian-canvas-creator/assets/template-freeform-grouped.canvas",
+    "0-辅助材料/7-输出模板/阅读工作流-试验版备份/1_Shared/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/mermaid-demo.png",
+    "0-辅助材料/7-输出模板/阅读工作流-试验版备份/1_Shared/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/excalidraw-demo.png",
+    "0-辅助材料/7-输出模板/阅读工作流-试验版备份/1_Shared/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/canvas-demo.png",
+    "0-辅助材料/10-Skills/文献阅读/1_Shared/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/excalidraw-demo.png",
+    "0-辅助材料/10-Skills/文献阅读/1_Shared/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/mermaid-demo.png",
+    "0-辅助材料/10-Skills/文献阅读/1_Shared/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/canvas-demo.png",
+    "0-辅助材料/10-Skills/文献阅读/1_Shared/obsidian-canvas-creator/assets/template-mindmap-simple.canvas",
+    "0-辅助材料/10-Skills/文献阅读/1_Shared/obsidian-canvas-creator/assets/template-freeform-grouped.canvas",
+    "opencode/skills/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/excalidraw-demo.png",
+    "opencode/skills/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/mermaid-demo.png",
+    "opencode/skills/axton-obsidian-visual-skills-main/axton-obsidian-visual-skills-main/assets/canvas-demo.png",
+    "opencode/skills/obsidian-canvas-creator/assets/template-mindmap-simple.canvas",
+    "opencode/skills/obsidian-canvas-creator/assets/template-freeform-grouped.canvas",
+    "9-白板/单细胞测序数据分析流.canvas",
+    "1-输入/1-原始资料/01.论文笔记/attachments/Pasted image 20250713135858.png",
+    "4-成果/04.高效工具学习/未命名.canvas"
+  ]
+}

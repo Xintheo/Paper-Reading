@@ -1,0 +1,15 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "方法原理-Callout",
+    "mermaid-responsive",
+    "mermaid-callout",
+    "Mermaid",
+    "indent-headings",
+    "Figure-callout",
+    "论文书写-Callout",
+    "段落书写-Callout"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 11
+}

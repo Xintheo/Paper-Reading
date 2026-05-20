@@ -1,0 +1,4 @@
+.callout[data-callout="figure"] {
+    --callout-color: 255, 0, 253;
+    --callout-icon: airplay
+}

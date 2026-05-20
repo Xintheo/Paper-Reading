@@ -1,0 +1,24 @@
+{
+  "bookmarks": [
+    {
+      "id": "839305498",
+      "name": "Claude",
+      "url": "https://claude.ai/new",
+      "description": "",
+      "category": [
+        ""
+      ],
+      "tags": "",
+      "created": 1770569160000,
+      "modified": 1770569160000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

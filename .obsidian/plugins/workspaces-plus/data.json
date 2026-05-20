@@ -1,0 +1,35 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "",
+    "cssTheme": "",
+    "enabledCssSnippets": [],
+    "theme": "obsidian",
+    "promptDelete": false,
+    "showUnsupportedFiles": true,
+    "showInlineTitle": false,
+    "pdfExportSettings": {
+      "includeName": true,
+      "pageSize": "A4",
+      "landscape": false,
+      "margin": "0",
+      "downscalePercent": 100
+    },
+    "alwaysUpdateLinks": true,
+    "strictLineBreaks": false,
+    "attachmentFolderPath": "0-辅助/Attachments",
+    "newFileLocation": "current",
+    "showProperties": true
+  },
+  "activeWorkspaceDesktop": "结果的写作",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": false,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": false
+}

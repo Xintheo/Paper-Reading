@@ -1,0 +1,31 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "完成": "checkbox",
+    "批量": "checkbox",
+    "进行中": "checkbox",
+    "待处理": "checkbox",
+    "JCR": "multitext",
+    "日记内容": "multitext",
+    "辞典模型": "text",
+    "辞典模式": "text",
+    "辞典原则": "text",
+    "辞典版本": "text",
+    "研究方法": "multitext",
+    "方法分类": "multitext",
+    "包括元素": "multitext",
+    "功能描述": "multitext",
+    "指令目的": "multitext",
+    "段落分布": "multitext",
+    "中转站作用": "multitext",
+    "使用步骤": "number",
+    "完成部分": "multitext",
+    "计划使用": "checkbox",
+    "历史归档": "checkbox",
+    "前缀": "multitext",
+    "后缀": "multitext",
+    "文稿性质": "multitext"
+  }
+}

@@ -1,0 +1,4 @@
+.callout[data-callout="论文书写"] {
+    --callout-color: 71, 71, 215;
+    --callout-icon: lucide-file-text
+}

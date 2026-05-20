@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "hideProperties",
+    "dashboard",
+    "callouts"
+  ],
+  "baseFontSize": 19
+}

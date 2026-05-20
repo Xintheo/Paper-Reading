@@ -1,0 +1,65 @@
+{
+  "defaultSearchEngine": "google",
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
+  "hoverPopover": true,
+  "ignoreList": [
+    "notion",
+    "craft"
+  ],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": false,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": false,
+  "showRefreshButton": true,
+  "openInObsidianWeb": true,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": false,
+  "randomBackground": false,
+  "lastOpenedFiles": false,
+  "bookmarkManager": {
+    "openBookMark": true,
+    "saveBookMark": true,
+    "sendToReadWise": true,
+    "pagination": "12",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "defaultCategory": "ROOT",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified"
+    ],
+    "defaultFilterType": "tree"
+  },
+  "treeData": [
+    {
+      "id": "fda71ccaa74338cc",
+      "parent": 0,
+      "droppable": true,
+      "text": "iCollege - iCollege",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+  "enableHtmlPreview": false,
+  "supportLivePreviewInlineUrl": false,
+  "enableTreeView": true,
+  "focusSearchBarViaKeyboard": true
+}

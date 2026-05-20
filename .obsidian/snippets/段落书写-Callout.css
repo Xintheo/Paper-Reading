@@ -1,0 +1,4 @@
+.callout[data-callout="段落书写"] {
+    --callout-color: 218, 165, 32;
+    --callout-icon: lucide-file-text
+}

@@ -1,0 +1,45 @@
+/* Mermaid响应式配置 */
+.mermaid {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+/* Mermaid容器配置 */
+.mermaid svg {
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+/* 预览模式下的Mermaid */
+.markdown-preview-view .mermaid {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: auto;
+}
+
+/* 编辑模式下的Mermaid */
+.markdown-source-view .mermaid {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .mermaid {
+        font-size: 10px !important;
+    }
+    
+    .mermaid svg text {
+        font-size: 10px !important;
+    }
+}
+
+/* 平板适配 */
+@media (max-width: 1024px) {
+    .mermaid {
+        font-size: 12px !important;
+    }
+}

@@ -1,0 +1,4 @@
+.callout[data-callout="mermaid"] {
+    --callout-color: 0, 255, 0;
+    --callout-icon: airplay
+}

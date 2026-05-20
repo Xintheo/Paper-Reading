@@ -1,0 +1,677 @@
+{
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:save-file": [],
+  "graph:open": [],
+  "editor:delete-paragraph": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "workspaces-plus:输出看板": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspaces-plus:成果看板": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "quick-explorer:go-next": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "quick-explorer:go-prev": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "workspaces-plus:Blank": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/MyIOTO/快速笔记/My-TP-Quick-Note-IOTO-Help.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "0"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/OBIOTO/IOTO同步模板/IOTO-OBFetchHelpDocs.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/OBIOTO/IOTO同步模板/IOTO-OBFetchIOTOUpdates.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/OBIOTO/IOTO同步模板/IOTO-OBFetchIOTOPrerelease.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/MyIOTO/同步模板/My-TP-MLBCUpdate.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/MyIOTO/同步模板/My-TP-MLBCSubmit.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/MyIOTO/快速笔记/My-TP-Quick-Note-碎片笔记.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/MyIOTO/笔记模板/Output笔记模板/My-TP-输出-卡片笔记.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "7"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/MyIOTO/快速笔记/My-TP-Quick-Note-卡片笔记.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "7"
+    }
+  ],
+  "templater-obsidian:0-辅助/IOTO/Templates/Templater/MyIOTO/同步模板/AirtableToOb.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "callout-integrator:callout-integrate": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-enhancing-mindmap:Toggle to markdown or mindmap": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "file-recovery:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-tts:start-pause-resume-tts-playback": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "app:go-back": [],
+  "workspace:close-window": [],
+  "workspace:close": [],
+  "editor:toggle-italics": [],
+  "editor:toggle-checklist-status": [],
+  "markdown:toggle-preview": [],
+  "app:go-forward": [],
+  "workspace:edit-file-title": [],
+  "editor:insert-link": [],
+  "editor:toggle-bold": [],
+  "switcher:open": [],
+  "editor:toggle-comments": [],
+  "templater-obsidian:replace-in-file-templater": [],
+  "templater-obsidian:insert-templater": [],
+  "obsidian-reminder-plugin:toggle-checklist-status": [],
+  "obsidian-reminder-plugin:show-date-chooser": [],
+  "page-scroll:page-scroll-up": [],
+  "page-scroll:page-scroll-down": [],
+  "workspace:undo-close-pane": [],
+  "markdown:add-metadata-property": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "command-palette:open": [],
+  "file-explorer:new-file": [],
+  "templater-obsidian:0-辅助材料/4-Template/Mermaid Wrapper.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/标注.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/原理.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/图例.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/image-list-to-table.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "7"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/笔记自动化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/批量删除.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/笔记自动化2.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/引言知识点自动化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/自动化-1引言.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/引用格式问题-2.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/自动化-2材料和方法.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/自动化-3论文结论.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/自动化-4知识点.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/文本处理自动化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/阅读自动化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/修改关键词属性.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/豆包格式化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/插入笔记-翻译.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/笔记整理-合并相似笔记.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "simple-note-correlator:analyze-selected-table": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "enhanced-bases-filter:open-bases-filter": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/MD→Base.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/Base属性元素删除.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/笔记整理-综合.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/1.文本处理自动化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/1.文本处理自动化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/2.阅读自动化.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/3.笔记整理.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/4.文件处理.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "obsidian-outliner:move-list-item-down": [],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/6-翻译格式刷.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/5-核心插件.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "property-association-search:open-property-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/5.论文书写.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-custom-frames:open-custom-frames-claude": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-outliner:fold": [],
+  "obsidian-outliner:unfold": [],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/7.文本修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/7.常用文本修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/8.非常用文本修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/9.使用上次修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/10-链接修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/4-Template/0.脚本汇总/11-文稿整理.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/1.常用文本修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/2.非常用文本修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/3.使用上次修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/4.添加链接.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/1.文本处理.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/2.笔记整理.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/3.常用文本修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/4.非常用文本修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/5.使用上次修饰.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/6.添加链接.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/7.论文书写.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:0-辅助材料/2-Template/0.脚本汇总/8.文稿整理.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ]
+}

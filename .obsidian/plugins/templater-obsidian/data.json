@@ -1,0 +1,43 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "0-辅助材料/2-Template/0.脚本汇总",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "2-输出资料/1-参考文献阅读/1-引言阅读",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "0-辅助材料/2-Template/0.脚本汇总/1.文本处理.md",
+    "0-辅助材料/2-Template/0.脚本汇总/2.笔记整理.md",
+    "0-辅助材料/2-Template/0.脚本汇总/3.常用文本修饰.md",
+    "0-辅助材料/2-Template/0.脚本汇总/4.非常用文本修饰.md",
+    "0-辅助材料/2-Template/0.脚本汇总/5.使用上次修饰.md",
+    "0-辅助材料/2-Template/0.脚本汇总/6.添加链接.md",
+    "0-辅助材料/2-Template/0.脚本汇总/7.论文书写.md",
+    "0-辅助材料/2-Template/0.脚本汇总/8.文稿整理.md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": 1
+}

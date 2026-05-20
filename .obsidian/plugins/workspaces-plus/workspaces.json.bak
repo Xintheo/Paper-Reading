@@ -1,0 +1,1592 @@
+{
+  "workspaces": {
+    "成果看板": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "37889a5317e8a490",
+            "type": "tabs",
+            "dimension": 23.529411764705877,
+            "children": [
+              {
+                "id": "3985fcf5d62bfde6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4-成果/Dashboard.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "88c3ba6206e2d537",
+            "type": "tabs",
+            "dimension": 76.47058823529412,
+            "children": [
+              {
+                "id": "af1c5a7f4fe23939",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outcomes-Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 221.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outcomes-Overview.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outcomes-Overview.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outcomes-Overview.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "af1c5a7f4fe23939",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助/Attachments",
+          "0-辅助/Templates/AS",
+          "3-任务",
+          "4-成果"
+        ],
+        "mode": null
+      }
+    },
+    "输出看板": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "98f0fcdef7b6d323",
+            "type": "tabs",
+            "dimension": 21.303656597774246,
+            "children": [
+              {
+                "id": "b2653b6ec26ae62f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-输出/Dashboard.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "e3a2461c029006df",
+            "type": "tabs",
+            "dimension": 78.69634340222575,
+            "children": [
+              {
+                "id": "6dfacc0acd581e68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outputs-Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 292,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outputs-Overview.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outputs-Overview.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Outputs-Overview.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "6dfacc0acd581e68",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助/Attachments",
+          "0-辅助/Templates/AS",
+          "1-输入",
+          "2-输出",
+          "3-任务",
+          "4-成果"
+        ],
+        "mode": null
+      }
+    },
+    "输入看板": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "98f0fcdef7b6d323",
+            "type": "tabs",
+            "dimension": 21.78060413354531,
+            "children": [
+              {
+                "id": "b2653b6ec26ae62f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-输入/Dashboard.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "e2f6f39909c1bd76",
+            "type": "tabs",
+            "dimension": 78.21939586645469,
+            "children": [
+              {
+                "id": "58f5e8a92683ff6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "58f5e8a92683ff6b",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助/Attachments",
+          "0-辅助/Templates/AS",
+          "1-输入",
+          "2-输出",
+          "3-任务",
+          "4-成果"
+        ],
+        "mode": null
+      }
+    },
+    "任务看板": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "f05fdc1f4e8aa478",
+            "type": "tabs",
+            "dimension": 26.629570747217805,
+            "children": [
+              {
+                "id": "783440871e4b4b21",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3-任务/Dashboard.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "7baf09e64483350b",
+            "type": "tabs",
+            "dimension": 43.28298887122416,
+            "children": [
+              {
+                "id": "7c2170af5ad9ea98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3-任务/IOTO研发/IOTO研发-2023-09-10.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f41335a8388ff9f4",
+            "type": "split",
+            "dimension": 30.087440381558032,
+            "children": [
+              {
+                "id": "cd1b1da5aa238892",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2f7ad62c347c93c0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3-任务/日常工作/日常工作-2023-09-08.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "8423cd03c0952e34",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3-任务/日常工作/日常工作-2023-09-10.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "a41df47121b101d6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "507350959f2c5254",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3-任务/MLBC/MLBC-2023-09-08.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "aa09b614656ada12",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3-任务/MLBC/MLBC-2023-09-10.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "24a299de532279aa",
+                "type": "leaf",
+                "state": {
+                  "type": "com.maxymillion.zen",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 340,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "3-任务/MLBC/MLBC-2023-09-10.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "3-任务/MLBC/MLBC-2023-09-10.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "3-任务/MLBC/MLBC-2023-09-10.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "aa09b614656ada12",
+      "workspaces-plus:settings-v1": {
+        "mode": null,
+        "explorerFoldState": [
+          "4-成果",
+          "4-成果/IOTO研发",
+          "4-成果/IOTO研发/Dev"
+        ]
+      }
+    },
+    "Demo": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "f05fdc1f4e8aa478",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "783440871e4b4b21",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/IOTO第八次分享.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/IOTO第八次分享.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/IOTO第八次分享.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/IOTO第八次分享.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "783440871e4b4b21",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助/Attachments",
+          "0-辅助/Templates/AS",
+          "1-输入",
+          "2-输出",
+          "3-任务",
+          "4-成果"
+        ]
+      }
+    },
+    "Blank": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ad58b5b38c14bda",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5294c3b1edc82f29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/关于IOTO的第五次演示.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5004348754883,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/关于IOTO的第五次演示.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/关于IOTO的第五次演示.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4-成果/IOTO研发/演示/关于IOTO的第五次演示.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "5294c3b1edc82f29",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助",
+          "0-辅助/Styles",
+          "0-辅助/Styles/Snippets",
+          "0-辅助/Templates",
+          "0-辅助/Templates/AS",
+          "0-辅助/Templates/Templater",
+          "2-输出",
+          "3-任务",
+          "4-成果"
+        ]
+      }
+    },
+    "Home": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "50248c3be93c559b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e766b7ff149730d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-IOO-Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9b9d7794b69fb28c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Tasks-Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5004348754883,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-IOO-Overview.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-IOO-Overview.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-IOO-Overview.md"
+                  }
+                }
+              },
+              {
+                "id": "f7e9cf9b356f7546",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "7e766b7ff149730d",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助",
+          "0-辅助/Templates",
+          "0-辅助/Templates/AS",
+          "2-输出",
+          "3-任务",
+          "4-成果"
+        ]
+      }
+    },
+    "演示": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ad58b5b38c14bda",
+            "type": "tabs",
+            "dimension": 29.09090909090909,
+            "children": [
+              {
+                "id": "5294c3b1edc82f29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-输入/Dashboard.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "08c53526ad28e196",
+            "type": "tabs",
+            "dimension": 70.9090909090909,
+            "children": [
+              {
+                "id": "3d1c2d6b07e1ef96",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c1f41c72086fe53a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5004348754883,
+        "collapsed": true
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0-辅助/IOTO/Dashboard/Project-Inputs-Overview.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "3d1c2d6b07e1ef96",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助",
+          "0-辅助/IOTO",
+          "0-辅助/IOTO/Dashboard",
+          "0-辅助/Templates",
+          "0-辅助/Templates/AS"
+        ]
+      }
+    }
+  },
+  "active": "Blank"
+}

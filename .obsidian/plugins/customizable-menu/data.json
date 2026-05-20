@@ -1,0 +1,39 @@
+{
+  "menuCommands": [
+    {
+      "name": "Pandoc Plugin: Export as Word Document (docx)",
+      "id": "obsidian-pandoc:pandoc-export-docx",
+      "icon": "album"
+    },
+    {
+      "name": "PDF++: Create dummy file for external PDF",
+      "id": "pdf-plus:create-dummy",
+      "icon": "album"
+    },
+    {
+      "name": "Enhancing Mindmap: 切换为 markdown 或 mindmap 模式",
+      "id": "obsidian-enhancing-mindmap:Toggle to markdown or mindmap",
+      "icon": "album"
+    },
+    {
+      "name": "Enhancing Mindmap: 创建新思维导图",
+      "id": "obsidian-enhancing-mindmap:Create New MindMap",
+      "icon": "alarm-check"
+    },
+    {
+      "id": "obsidian-reminder-plugin:show-date-chooser",
+      "name": "Reminder: Show calendar popup",
+      "icon": "calendar-with-checkmark",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Meta",
+            "Shift"
+          ],
+          "key": "2"
+        }
+      ]
+    }
+  ],
+  "hideTitles": []
+}
