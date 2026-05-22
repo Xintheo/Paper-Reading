@@ -16,4 +16,5 @@
   - conclusion_ai_result
   - affiliated_data_ai_output
   - results_ai_output_file
+  - strength_weakness_ai_result
 ---
