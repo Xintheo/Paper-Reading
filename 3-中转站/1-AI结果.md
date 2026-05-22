@@ -12,4 +12,5 @@
   - review_chain_ai_result
   - review_knowledge_ai_result
   - methods_ai_result
+  - discussion_ai_result
 ---
