@@ -13,4 +13,5 @@
   - review_knowledge_ai_result
   - methods_ai_result
   - discussion_ai_result
+  - conclusion_ai_result
 ---
