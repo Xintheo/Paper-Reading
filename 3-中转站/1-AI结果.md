@@ -14,4 +14,5 @@
   - methods_ai_result
   - discussion_ai_result
   - conclusion_ai_result
+  - affiliated_data_ai_output
 ---
