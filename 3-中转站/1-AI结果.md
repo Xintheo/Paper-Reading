@@ -9,4 +9,6 @@
 配置键:
   - abstract_ai_result
   - introduction_ai_result
+  - review_chain_ai_result
+  - review_knowledge_ai_result
 ---

@@ -8,4 +8,5 @@
   - 引言和知识点
 配置键:
   - knowledge_ai_result
+  - review_knowledge_extract_ai_result
 ---
