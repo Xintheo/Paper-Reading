@@ -2,18 +2,18 @@
   "buttons",
   "callout-manager",
   "customizable-menu",
-  "obsidian-git",
+  "obsidian-enhancing-export",
+  "obsidian-excalidraw-plugin",
   "homepage",
+  "obsidian-image-auto-upload-plugin",
   "obsidian-outliner",
   "page-scroll",
+  "obsidian-pandoc",
   "obsidian-quiet-outline",
   "obsidian-regex-replace",
   "obsidian-reminder-plugin",
   "obsidian-style-settings",
   "tag-wrangler",
   "templater-obsidian",
-  "workspaces-plus",
-  "obsidian-enhancing-export",
-  "obsidian-pandoc",
-  "obsidian-image-auto-upload-plugin"
+  "workspaces-plus"
 ]
