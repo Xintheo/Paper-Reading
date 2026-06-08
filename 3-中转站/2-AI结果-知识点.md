@@ -9,6 +9,7 @@
 配置键:
   - knowledge_ai_result
   - review_knowledge_extract_ai_result
+使用步骤: 2
 ---
 # 知识点提取结果
 
