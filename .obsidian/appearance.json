@@ -1,3 +1,14 @@
 {
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSizeAction": true,
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "段落书写-Callout",
+    "论文书写-Callout",
+    "Figure-callout",
+    "indent-headings",
+    "Mermaid",
+    "mermaid-callout",
+    "mermaid-responsive"
+  ]
 }
