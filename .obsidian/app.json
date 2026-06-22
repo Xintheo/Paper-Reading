@@ -1,6 +1,5 @@
 {
-  "propertiesInDocument": "hidden",
-  "foldHeading": true,
   "showInlineTitle": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "propertiesInDocument": "hidden"
 }

@@ -47,6 +47,8 @@
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
-    "可用数据": "checkbox"
+    "可用数据": "checkbox",
+    "知识点": "multitext",
+    "关键词": "multitext"
   }
 }

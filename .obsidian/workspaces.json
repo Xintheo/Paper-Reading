@@ -2,136 +2,81 @@
   "workspaces": {
     "主页": {
       "main": {
-        "id": "324e2b7a0a2aed88",
+        "id": "4a479f8f1bd4ef62",
         "type": "split",
         "children": [
           {
-            "id": "7e7e04277e0ecefc",
-            "type": "split",
+            "id": "4c49867fc3de7600",
+            "type": "tabs",
             "children": [
               {
-                "id": "a109914f3289b0e6",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "90edc53173c4d19f",
-                    "type": "tabs",
-                    "dimension": 50.805687203791464,
-                    "children": [
-                      {
-                        "id": "16c3f6c81639ea5b",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
-                            "viewName": "1.全部"
-                          },
-                          "icon": "lucide-table",
-                          "title": "1-文献原文"
-                        }
-                      },
-                      {
-                        "id": "a84895bf4163706c",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/5-说明书.base",
-                            "viewName": "1.全部"
-                          },
-                          "icon": "lucide-table",
-                          "title": "5-说明书"
-                        }
-                      },
-                      {
-                        "id": "153103bc1f7532f5",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                            "viewName": "2.1-AI指令"
-                          },
-                          "icon": "lucide-table",
-                          "title": "1-工作流文件"
-                        }
-                      }
-                    ],
-                    "currentTab": 2
+                "id": "4dcea34dd9ab52ba",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
+                    "viewName": "2.1-AI指令"
                   },
-                  {
-                    "id": "e605b6e39b7e5153",
-                    "type": "tabs",
-                    "dimension": 49.194312796208536,
-                    "children": [
-                      {
-                        "id": "bc4dd0efc058b131",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                            "viewName": "4.3-中转站"
-                          },
-                          "icon": "lucide-table",
-                          "title": "1-工作流文件"
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "vertical"
+                  "icon": "lucide-table",
+                  "title": "1-工作流文件"
+                }
               },
               {
-                "id": "226a4ce1da499318",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ecfdcc3f2192137a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/1-文献输入/2-处理后文献.base",
-                        "viewName": "1.全部"
-                      },
-                      "icon": "lucide-table",
-                      "title": "2-处理后文献"
-                    }
+                "id": "3a9dd417d5360e91",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
+                    "viewName": "3.2-辞典"
                   },
-                  {
-                    "id": "4860d8b8a6a45f5b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                        "viewName": "3.2-辞典"
-                      },
-                      "icon": "lucide-table",
-                      "title": "1-工作流文件"
-                    }
-                  }
-                ],
-                "currentTab": 1
+                  "icon": "lucide-table",
+                  "title": "1-工作流文件"
+                }
+              },
+              {
+                "id": "5b8f8d2e3e1bb399",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
+                    "viewName": "4.3-中转站"
+                  },
+                  "icon": "lucide-table",
+                  "title": "1-工作流文件"
+                }
+              },
+              {
+                "id": "bf6a894e6d7c5b67",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/0-辅助材料/5-说明书.base",
+                    "viewName": "1.全部"
+                  },
+                  "icon": "lucide-table",
+                  "title": "5-说明书"
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
       },
       "left": {
-        "id": "9f3c145813b44c60",
+        "id": "2cfaa9bab9ce1ba9",
         "type": "split",
         "children": [
           {
-            "id": "f957f74ea5e4fa9a",
+            "id": "19a32588c4e080ff",
             "type": "tabs",
             "children": [
               {
-                "id": "dd8c72fc438882f6",
+                "id": "b989d1c42ba01c16",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -146,7 +91,7 @@
                 }
               },
               {
-                "id": "da0db952287911d9",
+                "id": "38f393cc9da59013",
                 "type": "leaf",
                 "state": {
                   "type": "search",
@@ -163,17 +108,20 @@
                 }
               },
               {
-                "id": "6ed2f1edbbaa8377",
+                "id": "0d2b57aace97e415",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {},
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
                   "icon": "lucide-bookmark",
                   "title": "书签"
                 }
               },
               {
-                "id": "25538e138540bc94",
+                "id": "d862a8b944ca9c5f",
                 "type": "leaf",
                 "state": {
                   "type": "all-properties",
@@ -187,64 +135,42 @@
                 }
               },
               {
-                "id": "06d755ecf243a3b1",
-                "type": "leaf",
-                "state": {
-                  "type": "reminder-list",
-                  "state": {},
-                  "icon": "clock",
-                  "title": "Reminders"
-                }
-              },
-              {
-                "id": "2402c04769a6725d",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "0-辅助材料/1-主页设置/0-自动化/2.摘要处理自动化.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "2.摘要处理自动化的笔记属性"
-                }
-              },
-              {
-                "id": "a5d414c7d0d926fd",
+                "id": "a582220c0dad9595",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "5-文件夹汇总/1-文献输入/1-文献原文.base",
+                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "1-文献原文 的大纲"
+                  "title": "大纲"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 288,
+        "width": 300,
         "collapsed": true
       },
       "right": {
-        "id": "128c55eacc93ffde",
+        "id": "89b71f72c9d2bec6",
         "type": "split",
         "children": [
           {
-            "id": "82b29c53d552e950",
+            "id": "41918eb65375f00d",
             "type": "tabs",
             "children": [
               {
-                "id": "55ef978f5cc6ed6f",
+                "id": "903fc75fd879353c",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "5-文件夹汇总/0-辅助材料/5-中转站.base",
+                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -254,11 +180,11 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "5-中转站 的反向链接列表"
+                  "title": "反向链接"
                 }
               },
               {
-                "id": "fd7dcdd756b8fe14",
+                "id": "25bcecb3969bd6e3",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
@@ -272,7 +198,32 @@
                 }
               },
               {
-                "id": "aead0e3f65c0575d",
+                "id": "c83e57b6402ea7eb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "69ff009d4bb57e10",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Reminders"
+                }
+              },
+              {
+                "id": "e2a63e4c7a1992df",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -286,35 +237,290 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
-        "width": 480
+        "width": 531
       },
       "left-ribbon": {
         "hiddenItems": {
-          "obsidian-excalidraw-plugin:新建绘图文件": false,
-          "bases:新建数据库": false,
-          "templater-obsidian:Templater": false,
-          "workspaces:管理工作区布局": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
           "canvas:新建白板": false,
           "daily-notes:打开/创建今天的日记": false,
-          "command-palette:打开命令面板": false,
           "templates:插入模板": false,
-          "homepage:Open homepage": false
+          "command-palette:打开命令面板": false,
+          "bases:新建数据库": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false
         }
       },
-      "active": "bc4dd0efc058b131",
-      "mtime": "2026-06-08T22:54:07-04:00",
+      "active": "bf6a894e6d7c5b67",
+      "mtime": "2026-06-18T09:22:57-04:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "0-辅助材料",
           "0-辅助材料/4-工作区设置",
-          "1-文献输入",
-          "1-文献输入/1-文献原文",
+          "0-辅助材料/5-说明书",
+          "6-文件夹汇总",
+          "6-文件夹汇总/0-辅助材料"
+        ]
+      }
+    },
+    "文献整理": {
+      "main": {
+        "id": "4a479f8f1bd4ef62",
+        "type": "split",
+        "children": [
+          {
+            "id": "560e6fa74624614d",
+            "type": "split",
+            "children": [
+              {
+                "id": "902936acc4cb98e2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b2ebb5724905d1b4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                        "viewName": "1.全部"
+                      },
+                      "icon": "lucide-table",
+                      "title": "1-文献原文"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "266c6b80916a482e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8bca6093f14c7b87",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "6-文件夹汇总/1-文献输入/2-处理后文献.base",
+                        "viewName": "1.全部"
+                      },
+                      "icon": "lucide-table",
+                      "title": "2-处理后文献"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2cfaa9bab9ce1ba9",
+        "type": "split",
+        "children": [
+          {
+            "id": "19a32588c4e080ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b989d1c42ba01c16",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "38f393cc9da59013",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "0d2b57aace97e415",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "d862a8b944ca9c5f",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "a582220c0dad9595",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "大纲"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "89b71f72c9d2bec6",
+        "type": "split",
+        "children": [
+          {
+            "id": "41918eb65375f00d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "903fc75fd879353c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "反向链接"
+                }
+              },
+              {
+                "id": "25bcecb3969bd6e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "出链"
+                }
+              },
+              {
+                "id": "c83e57b6402ea7eb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "69ff009d4bb57e10",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Reminders"
+                }
+              },
+              {
+                "id": "e2a63e4c7a1992df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2-工作流Buttons"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 531
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:新建数据库": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "b2ebb5724905d1b4",
+      "mtime": "2026-06-15T09:35:08-04:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "0-辅助材料",
+          "0-辅助材料/4-工作区设置",
+          "0-辅助材料/5-说明书",
           "6-文件夹汇总",
           "6-文件夹汇总/0-辅助材料",
           "6-文件夹汇总/1-文献输入"
@@ -323,24 +529,23 @@
     },
     "摘要和引言阅读": {
       "main": {
-        "id": "324e2b7a0a2aed88",
+        "id": "4a479f8f1bd4ef62",
         "type": "split",
         "children": [
           {
-            "id": "7e7e04277e0ecefc",
+            "id": "560e6fa74624614d",
             "type": "split",
             "children": [
               {
-                "id": "a109914f3289b0e6",
+                "id": "93f2da220fe1e823",
                 "type": "split",
                 "children": [
                   {
-                    "id": "90edc53173c4d19f",
+                    "id": "902936acc4cb98e2",
                     "type": "tabs",
-                    "dimension": 49.65986394557822,
                     "children": [
                       {
-                        "id": "16c3f6c81639ea5b",
+                        "id": "b2ebb5724905d1b4",
                         "type": "leaf",
                         "state": {
                           "type": "bases",
@@ -353,41 +558,27 @@
                         }
                       },
                       {
-                        "id": "a84895bf4163706c",
+                        "id": "46670db6bb06b0e2",
                         "type": "leaf",
                         "state": {
                           "type": "bases",
                           "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/5-说明书.base",
-                            "viewName": "1.全部"
+                            "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
+                            "viewName": "2.1-AI指令"
                           },
                           "icon": "lucide-table",
-                          "title": "5-说明书"
-                        }
-                      },
-                      {
-                        "id": "153103bc1f7532f5",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "0-辅助材料/1-工作流文件/1-AI指令/2.知识点定义.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "2.知识点定义"
+                          "title": "1-工作流文件"
                         }
                       }
-                    ]
+                    ],
+                    "currentTab": 1
                   },
                   {
-                    "id": "e605b6e39b7e5153",
+                    "id": "8a9ab721f9dfeda2",
                     "type": "tabs",
-                    "dimension": 50.34013605442178,
                     "children": [
                       {
-                        "id": "bc4dd0efc058b131",
+                        "id": "3c9c809b17db113d",
                         "type": "leaf",
                         "state": {
                           "type": "bases",
@@ -400,87 +591,100 @@
                         }
                       },
                       {
-                        "id": "84a2f93330c8d823",
+                        "id": "9ce5249f247cbc93",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/1-AI结果.md",
+                            "file": "0-辅助材料/1-工作流文件/3-中转站/1-摘要结果.md",
                             "mode": "source",
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "1-AI结果"
+                          "title": "1-摘要结果"
                         }
                       },
                       {
-                        "id": "a42771e401f94f96",
+                        "id": "437cbe53cde5a17e",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/手选章节中转站.md",
+                            "file": "0-辅助材料/1-工作流文件/3-中转站/2-引言逻辑链.md",
                             "mode": "source",
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "手选章节中转站"
+                          "title": "2-引言逻辑链"
                         }
                       },
                       {
-                        "id": "0525e2f6ddc850c7",
+                        "id": "5e7f052e0049329c",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/2-AI结果-知识点.md",
+                            "file": "0-辅助材料/1-工作流文件/3-中转站/3-关键词整理.md",
                             "mode": "source",
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "2-AI结果-知识点"
+                          "title": "3-关键词整理"
                         }
                       },
                       {
-                        "id": "e1c43339d447613f",
+                        "id": "6912527d9004ed4b",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/2-知识点定义.md",
+                            "file": "0-辅助材料/1-工作流文件/3-中转站/4-归一去重.md",
                             "mode": "source",
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "2-知识点定义"
+                          "title": "4-归一去重"
                         }
                       },
                       {
-                        "id": "627b8e4e9a9ce568",
+                        "id": "f3fad20fd9250087",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "4-临时文件/2026-06-11.md",
+                            "file": "0-辅助材料/1-工作流文件/3-中转站/5-知识点笔记分发.md",
                             "mode": "source",
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "2026-06-11"
+                          "title": "5-知识点笔记分发"
+                        }
+                      },
+                      {
+                        "id": "92a85252a21310f6",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "4-临时文件/2026-06-19.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "2026-06-19"
                         }
                       }
-                    ],
-                    "currentTab": 4
+                    ]
                   }
                 ],
                 "direction": "vertical"
               },
               {
-                "id": "226a4ce1da499318",
+                "id": "266c6b80916a482e",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "ecfdcc3f2192137a",
+                    "id": "8bca6093f14c7b87",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
@@ -493,33 +697,20 @@
                     }
                   },
                   {
-                    "id": "23f97252c919d76f",
+                    "id": "f4cce163732c2f0d",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
                       "state": {
                         "file": "6-文件夹汇总/2-文献摘抄/0-元素笔记.base",
-                        "viewName": "1.全部"
+                        "viewName": "2.摘要"
                       },
                       "icon": "lucide-table",
                       "title": "0-元素笔记"
                     }
                   },
                   {
-                    "id": "e10829e78458d0ec",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/2-文献摘抄/0-知识点笔记.base",
-                        "viewName": "1.全部"
-                      },
-                      "icon": "lucide-table",
-                      "title": "0-知识点笔记"
-                    }
-                  },
-                  {
-                    "id": "c03c5e213f26f6ae",
+                    "id": "fd0e208d606e4c9d",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
@@ -532,7 +723,7 @@
                     }
                   },
                   {
-                    "id": "0e4f95c65aa6ab60",
+                    "id": "eca3021da9a4de88",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
@@ -545,20 +736,34 @@
                     }
                   },
                   {
-                    "id": "fd2cc6513f5877c9",
+                    "id": "73573cf656c3cf1e",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
                       "state": {
-                        "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                        "viewName": "3.2-辞典"
+                        "file": "6-文件夹汇总/2-文献摘抄/0-知识点笔记.base",
+                        "viewName": "1.全部"
                       },
                       "icon": "lucide-table",
-                      "title": "1-工作流文件"
+                      "title": "0-知识点笔记"
                     }
                   },
                   {
-                    "id": "abf50f0fba776cc8",
+                    "id": "643aa7d2b3200804",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/1-工作流文件/2-辞典/0-元素辞典.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "0-元素辞典"
+                    }
+                  },
+                  {
+                    "id": "28a3875a709ff291",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -572,7 +777,7 @@
                     }
                   },
                   {
-                    "id": "c973581e573995f2",
+                    "id": "191de0f32ae3db1d",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -586,7 +791,21 @@
                     }
                   },
                   {
-                    "id": "a8b4defde5ba409e",
+                    "id": "d74d908ccf48bb27",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/1-工作流文件/2-辞典/0-关键词辞典.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "0-关键词辞典"
+                    }
+                  },
+                  {
+                    "id": "0d9deef7261f5590",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -600,7 +819,7 @@
                     }
                   }
                 ],
-                "currentTab": 8
+                "currentTab": 9
               }
             ],
             "direction": "horizontal"
@@ -609,15 +828,15 @@
         "direction": "vertical"
       },
       "left": {
-        "id": "9f3c145813b44c60",
+        "id": "2cfaa9bab9ce1ba9",
         "type": "split",
         "children": [
           {
-            "id": "f957f74ea5e4fa9a",
+            "id": "19a32588c4e080ff",
             "type": "tabs",
             "children": [
               {
-                "id": "dd8c72fc438882f6",
+                "id": "b989d1c42ba01c16",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -632,7 +851,7 @@
                 }
               },
               {
-                "id": "da0db952287911d9",
+                "id": "38f393cc9da59013",
                 "type": "leaf",
                 "state": {
                   "type": "search",
@@ -649,17 +868,20 @@
                 }
               },
               {
-                "id": "6ed2f1edbbaa8377",
+                "id": "0d2b57aace97e415",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {},
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
                   "icon": "lucide-bookmark",
                   "title": "书签"
                 }
               },
               {
-                "id": "25538e138540bc94",
+                "id": "d862a8b944ca9c5f",
                 "type": "leaf",
                 "state": {
                   "type": "all-properties",
@@ -673,64 +895,42 @@
                 }
               },
               {
-                "id": "06d755ecf243a3b1",
-                "type": "leaf",
-                "state": {
-                  "type": "reminder-list",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "reminder-list"
-                }
-              },
-              {
-                "id": "2402c04769a6725d",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "0-辅助材料/1-主页设置/0-自动化/2.摘要处理自动化.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "2.摘要处理自动化的笔记属性"
-                }
-              },
-              {
-                "id": "a5d414c7d0d926fd",
+                "id": "a582220c0dad9595",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "5-文件夹汇总/1-文献输入/1-文献原文.base",
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "1-文献原文 的大纲"
+                  "title": "大纲"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 288,
+        "width": 300,
         "collapsed": true
       },
       "right": {
-        "id": "128c55eacc93ffde",
+        "id": "89b71f72c9d2bec6",
         "type": "split",
         "children": [
           {
-            "id": "82b29c53d552e950",
+            "id": "41918eb65375f00d",
             "type": "tabs",
             "children": [
               {
-                "id": "55ef978f5cc6ed6f",
+                "id": "903fc75fd879353c",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "5-文件夹汇总/0-辅助材料/5-中转站.base",
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -740,16 +940,16 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "5-中转站 的反向链接列表"
+                  "title": "反向链接"
                 }
               },
               {
-                "id": "fd7dcdd756b8fe14",
+                "id": "25bcecb3969bd6e3",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
@@ -758,21 +958,7 @@
                 }
               },
               {
-                "id": "aead0e3f65c0575d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2-工作流Buttons"
-                }
-              },
-              {
-                "id": "d1c05e2d86d9494b",
+                "id": "c83e57b6402ea7eb",
                 "type": "leaf",
                 "state": {
                   "type": "tag",
@@ -785,64 +971,85 @@
                   "icon": "lucide-tags",
                   "title": "标签"
                 }
+              },
+              {
+                "id": "69ff009d4bb57e10",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Reminders"
+                }
+              },
+              {
+                "id": "e2a63e4c7a1992df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2-工作流Buttons"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
-        "width": 406
+        "width": 531
       },
       "left-ribbon": {
         "hiddenItems": {
-          "bases:新建数据库": false,
-          "workspaces:管理工作区布局": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
           "canvas:新建白板": false,
           "daily-notes:打开/创建今天的日记": false,
-          "command-palette:打开命令面板": false,
           "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:新建数据库": false,
           "obsidian-excalidraw-plugin:新建绘图文件": false,
           "homepage:Open homepage": false,
-          "templater-obsidian:Templater": false
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false
         }
       },
-      "active": "e1c43339d447613f",
-      "mtime": "2026-06-11T13:18:50-04:00",
+      "active": "46670db6bb06b0e2",
+      "mtime": "2026-06-19T18:32:46-04:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "0-辅助材料",
-          "3-拟用素材",
-          "4-临时文件",
-          "5-最终文稿",
+          "2-文献摘抄",
+          "2-文献摘抄/0-知识点笔记",
           "6-文件夹汇总",
           "6-文件夹汇总/0-辅助材料",
-          "6-文件夹汇总/1-文献输入",
           "6-文件夹汇总/2-文献摘抄"
         ]
       }
     },
     "方法阅读": {
       "main": {
-        "id": "324e2b7a0a2aed88",
+        "id": "4a479f8f1bd4ef62",
         "type": "split",
         "children": [
           {
-            "id": "7e7e04277e0ecefc",
+            "id": "560e6fa74624614d",
             "type": "split",
             "children": [
               {
-                "id": "a109914f3289b0e6",
+                "id": "93f2da220fe1e823",
                 "type": "split",
                 "children": [
                   {
-                    "id": "90edc53173c4d19f",
+                    "id": "902936acc4cb98e2",
                     "type": "tabs",
-                    "dimension": 50.805687203791464,
                     "children": [
                       {
-                        "id": "16c3f6c81639ea5b",
+                        "id": "b2ebb5724905d1b4",
                         "type": "leaf",
                         "state": {
                           "type": "bases",
@@ -855,40 +1062,28 @@
                         }
                       },
                       {
-                        "id": "a84895bf4163706c",
+                        "id": "46670db6bb06b0e2",
                         "type": "leaf",
                         "state": {
-                          "type": "bases",
+                          "type": "markdown",
                           "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/5-说明书.base",
-                            "viewName": "1.全部"
+                            "file": "0-辅助材料/1-工作流文件/1-AI指令/3.材料和方法.md",
+                            "mode": "source",
+                            "source": false
                           },
-                          "icon": "lucide-table",
-                          "title": "5-说明书"
-                        }
-                      },
-                      {
-                        "id": "153103bc1f7532f5",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                            "viewName": "2.1-AI指令"
-                          },
-                          "icon": "lucide-table",
-                          "title": "1-工作流文件"
+                          "icon": "lucide-file",
+                          "title": "3.材料和方法"
                         }
                       }
-                    ]
+                    ],
+                    "currentTab": 1
                   },
                   {
-                    "id": "e605b6e39b7e5153",
+                    "id": "8a9ab721f9dfeda2",
                     "type": "tabs",
-                    "dimension": 49.194312796208536,
                     "children": [
                       {
-                        "id": "bc4dd0efc058b131",
+                        "id": "3c9c809b17db113d",
                         "type": "leaf",
                         "state": {
                           "type": "bases",
@@ -901,21 +1096,7 @@
                         }
                       },
                       {
-                        "id": "c96b621e311ea87d",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/1-AI结果.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "1-AI结果"
-                        }
-                      },
-                      {
-                        "id": "03d09e1a4fdabc46",
+                        "id": "1dfdeccaf1e79b87",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
@@ -929,21 +1110,21 @@
                         }
                       },
                       {
-                        "id": "339e6e74f8d5400a",
+                        "id": "1720798bffcbdffd",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/2-AI结果-知识点.md",
+                            "file": "0-辅助材料/1-工作流文件/3-中转站/3-方法-逻辑链.md",
                             "mode": "source",
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "2-AI结果-知识点"
+                          "title": "3-方法-逻辑链"
                         }
                       },
                       {
-                        "id": "818471af350b496b",
+                        "id": "5b82bf8bdf1fc859",
                         "type": "leaf",
                         "state": {
                           "type": "markdown",
@@ -957,17 +1138,17 @@
                         }
                       }
                     ],
-                    "currentTab": 3
+                    "currentTab": 2
                   }
                 ],
                 "direction": "vertical"
               },
               {
-                "id": "226a4ce1da499318",
+                "id": "266c6b80916a482e",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "ecfdcc3f2192137a",
+                    "id": "8bca6093f14c7b87",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
@@ -980,7 +1161,7 @@
                     }
                   },
                   {
-                    "id": "56639aea5e4d3ecd",
+                    "id": "2db60f9867f69559",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
@@ -993,7 +1174,7 @@
                     }
                   },
                   {
-                    "id": "5d0010a3d770646a",
+                    "id": "5f6846c4fd689a5f",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
@@ -1006,7 +1187,7 @@
                     }
                   },
                   {
-                    "id": "45ea1cbb10d30412",
+                    "id": "fc50b6fb6d76bc9a",
                     "type": "leaf",
                     "state": {
                       "type": "bases",
@@ -1019,7 +1200,7 @@
                     }
                   },
                   {
-                    "id": "062ba07e63fdfd04",
+                    "id": "cf5d93b5c9326298",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -1042,15 +1223,15 @@
         "direction": "vertical"
       },
       "left": {
-        "id": "9f3c145813b44c60",
+        "id": "2cfaa9bab9ce1ba9",
         "type": "split",
         "children": [
           {
-            "id": "f957f74ea5e4fa9a",
+            "id": "19a32588c4e080ff",
             "type": "tabs",
             "children": [
               {
-                "id": "dd8c72fc438882f6",
+                "id": "b989d1c42ba01c16",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -1065,7 +1246,7 @@
                 }
               },
               {
-                "id": "da0db952287911d9",
+                "id": "38f393cc9da59013",
                 "type": "leaf",
                 "state": {
                   "type": "search",
@@ -1082,17 +1263,20 @@
                 }
               },
               {
-                "id": "6ed2f1edbbaa8377",
+                "id": "0d2b57aace97e415",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {},
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
                   "icon": "lucide-bookmark",
                   "title": "书签"
                 }
               },
               {
-                "id": "25538e138540bc94",
+                "id": "d862a8b944ca9c5f",
                 "type": "leaf",
                 "state": {
                   "type": "all-properties",
@@ -1106,64 +1290,42 @@
                 }
               },
               {
-                "id": "06d755ecf243a3b1",
-                "type": "leaf",
-                "state": {
-                  "type": "reminder-list",
-                  "state": {},
-                  "icon": "clock",
-                  "title": "Reminders"
-                }
-              },
-              {
-                "id": "2402c04769a6725d",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "0-辅助材料/1-主页设置/0-自动化/2.摘要处理自动化.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "2.摘要处理自动化的笔记属性"
-                }
-              },
-              {
-                "id": "a5d414c7d0d926fd",
+                "id": "a582220c0dad9595",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "5-文件夹汇总/1-文献输入/1-文献原文.base",
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "1-文献原文 的大纲"
+                  "title": "大纲"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 288,
+        "width": 300,
         "collapsed": true
       },
       "right": {
-        "id": "128c55eacc93ffde",
+        "id": "89b71f72c9d2bec6",
         "type": "split",
         "children": [
           {
-            "id": "82b29c53d552e950",
+            "id": "41918eb65375f00d",
             "type": "tabs",
             "children": [
               {
-                "id": "55ef978f5cc6ed6f",
+                "id": "903fc75fd879353c",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "5-文件夹汇总/0-辅助材料/5-中转站.base",
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1173,16 +1335,16 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "5-中转站 的反向链接列表"
+                  "title": "反向链接"
                 }
               },
               {
-                "id": "fd7dcdd756b8fe14",
+                "id": "25bcecb3969bd6e3",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
+                    "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
@@ -1191,421 +1353,22 @@
                 }
               },
               {
-                "id": "aead0e3f65c0575d",
+                "id": "c83e57b6402ea7eb",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2-工作流Buttons"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal",
-        "width": 406
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian-excalidraw-plugin:新建绘图文件": false,
-          "bases:新建数据库": false,
-          "templater-obsidian:Templater": false,
-          "workspaces:管理工作区布局": false,
-          "switcher:打开快速切换": false,
-          "graph:查看关系图谱": false,
-          "canvas:新建白板": false,
-          "daily-notes:打开/创建今天的日记": false,
-          "command-palette:打开命令面板": false,
-          "templates:插入模板": false,
-          "homepage:Open homepage": false
-        }
-      },
-      "active": "339e6e74f8d5400a",
-      "mtime": "2026-06-11T15:34:57-04:00",
-      "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "3-拟用素材",
-          "5-最终文稿",
-          "6-文件夹汇总",
-          "6-文件夹汇总/0-辅助材料",
-          "6-文件夹汇总/2-文献摘抄"
-        ]
-      }
-    },
-    "结果阅读": {
-      "main": {
-        "id": "324e2b7a0a2aed88",
-        "type": "split",
-        "children": [
-          {
-            "id": "7e7e04277e0ecefc",
-            "type": "split",
-            "children": [
-              {
-                "id": "a109914f3289b0e6",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "90edc53173c4d19f",
-                    "type": "tabs",
-                    "dimension": 50.805687203791464,
-                    "children": [
-                      {
-                        "id": "16c3f6c81639ea5b",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "1-文献输入/1-文献原文/ACOT8-mediated palmitate accumulation promotes M1 macrophage polarization in renal ischemia-reperfusion injury via activation of the cGAS-STING pathway.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "ACOT8-mediated palmitate accumulation promotes M1 macrophage polarization in renal ischemia-reperfusion injury via activation of the cGAS-STING pathway"
-                        }
-                      },
-                      {
-                        "id": "a84895bf4163706c",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/5-说明书.base",
-                            "viewName": "1.全部"
-                          },
-                          "icon": "lucide-table",
-                          "title": "5-说明书"
-                        }
-                      },
-                      {
-                        "id": "153103bc1f7532f5",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                            "viewName": "2.1-AI指令"
-                          },
-                          "icon": "lucide-table",
-                          "title": "1-工作流文件"
-                        }
-                      }
-                    ],
-                    "currentTab": 2
-                  },
-                  {
-                    "id": "e605b6e39b7e5153",
-                    "type": "tabs",
-                    "dimension": 49.194312796208536,
-                    "children": [
-                      {
-                        "id": "bc4dd0efc058b131",
-                        "type": "leaf",
-                        "state": {
-                          "type": "bases",
-                          "state": {
-                            "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                            "viewName": "4.3-中转站"
-                          },
-                          "icon": "lucide-table",
-                          "title": "1-工作流文件"
-                        }
-                      },
-                      {
-                        "id": "3ad7a298b54bcf4b",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/1-AI结果.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "1-AI结果"
-                        }
-                      },
-                      {
-                        "id": "a632a1d5d37bce7c",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/4-结果总结.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "4-结果总结"
-                        }
-                      },
-                      {
-                        "id": "5033a13e76e1a8e7",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/4-具体结果表格.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "4-具体结果表格"
-                        }
-                      },
-                      {
-                        "id": "91da36ab72af3e1c",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "0-辅助材料/1-工作流文件/3-中转站/4-图像定义表.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "4-图像定义表"
-                        }
-                      },
-                      {
-                        "id": "ba2105bfaefd77d7",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "4-临时文件/2026-06-11.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "2026-06-11"
-                        }
-                      }
-                    ],
-                    "currentTab": 4
-                  }
-                ],
-                "direction": "vertical"
-              },
-              {
-                "id": "226a4ce1da499318",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ecfdcc3f2192137a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/1-文献输入/2-处理后文献.base",
-                        "viewName": "1.全部"
-                      },
-                      "icon": "lucide-table",
-                      "title": "2-处理后文献"
-                    }
-                  },
-                  {
-                    "id": "0b611c79f4ff23b7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/2-文献摘抄/4.1-结果笔记.base",
-                        "viewName": "2.1-结果逻辑链"
-                      },
-                      "icon": "lucide-table",
-                      "title": "4.1-结果笔记"
-                    }
-                  },
-                  {
-                    "id": "b7a04e419d70a0fd",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/2-文献摘抄/4.1-结果笔记.base",
-                        "viewName": "3.2-结果元素"
-                      },
-                      "icon": "lucide-table",
-                      "title": "4.1-结果笔记"
-                    }
-                  },
-                  {
-                    "id": "f0d4ae3623384a6d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/2-文献摘抄/4.1-结果笔记.base",
-                        "viewName": "4.3-数据展示"
-                      },
-                      "icon": "lucide-table",
-                      "title": "4.1-结果笔记"
-                    }
-                  },
-                  {
-                    "id": "3335e3f2982962c1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/2-文献摘抄/4.1-结果笔记.base",
-                        "viewName": "5.4-图例"
-                      },
-                      "icon": "lucide-table",
-                      "title": "4.1-结果笔记"
-                    }
-                  },
-                  {
-                    "id": "45ea1cbb10d30412",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
-                        "viewName": "3.2-辞典"
-                      },
-                      "icon": "lucide-table",
-                      "title": "1-工作流文件"
-                    }
-                  },
-                  {
-                    "id": "4053e52fa1de78d4",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "0-辅助材料/1-工作流文件/2-辞典/4.研究套路辞典.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "4.研究套路辞典"
-                    }
-                  },
-                  {
-                    "id": "8b8ac6c6284157f7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "0-辅助材料/1-工作流文件/2-辞典/4.结果辞典.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "4.结果辞典"
-                    }
-                  },
-                  {
-                    "id": "85f4a1da24a839e7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "0-辅助材料/1-工作流文件/2-辞典/4.结果-图像辞典.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "4.结果-图像辞典"
-                    }
-                  },
-                  {
-                    "id": "a1605a566d6dac5c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "0-辅助材料/1-工作流文件/3-中转站/4-结果总结.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "4-结果总结"
-                    }
-                  }
-                ],
-                "currentTab": 4
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "9f3c145813b44c60",
-        "type": "split",
-        "children": [
-          {
-            "id": "f957f74ea5e4fa9a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dd8c72fc438882f6",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "文件列表"
-                }
-              },
-              {
-                "id": "da0db952287911d9",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "搜索"
-                }
-              },
-              {
-                "id": "6ed2f1edbbaa8377",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "书签"
-                }
-              },
-              {
-                "id": "25538e138540bc94",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
+                  "type": "tag",
                   "state": {
                     "sortOrder": "frequency",
+                    "useHierarchy": true,
                     "showSearch": false,
                     "searchQuery": ""
                   },
-                  "icon": "lucide-archive",
-                  "title": "添加笔记属性"
+                  "icon": "lucide-tags",
+                  "title": "标签"
                 }
               },
               {
-                "id": "06d755ecf243a3b1",
+                "id": "69ff009d4bb57e10",
                 "type": "leaf",
                 "state": {
                   "type": "reminder-list",
@@ -1615,82 +1378,7 @@
                 }
               },
               {
-                "id": "2402c04769a6725d",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "0-辅助材料/1-主页设置/0-自动化/2.摘要处理自动化.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "2.摘要处理自动化的笔记属性"
-                }
-              },
-              {
-                "id": "a5d414c7d0d926fd",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "5-文件夹汇总/1-文献输入/1-文献原文.base",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "1-文献原文 的大纲"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 288,
-        "collapsed": true
-      },
-      "right": {
-        "id": "128c55eacc93ffde",
-        "type": "split",
-        "children": [
-          {
-            "id": "82b29c53d552e950",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "55ef978f5cc6ed6f",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "5-文件夹汇总/0-辅助材料/5-中转站.base",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "5-中转站 的反向链接列表"
-                }
-              },
-              {
-                "id": "fd7dcdd756b8fe14",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "出链"
-                }
-              },
-              {
-                "id": "aead0e3f65c0575d",
+                "id": "e2a63e4c7a1992df",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -1704,39 +1392,41 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
-        "width": 406
+        "width": 531
       },
       "left-ribbon": {
         "hiddenItems": {
-          "obsidian-excalidraw-plugin:新建绘图文件": false,
-          "bases:新建数据库": false,
-          "templater-obsidian:Templater": false,
-          "workspaces:管理工作区布局": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
           "canvas:新建白板": false,
           "daily-notes:打开/创建今天的日记": false,
-          "command-palette:打开命令面板": false,
           "templates:插入模板": false,
-          "homepage:Open homepage": false
+          "command-palette:打开命令面板": false,
+          "bases:新建数据库": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false
         }
       },
-      "active": "153103bc1f7532f5",
-      "mtime": "2026-06-11T16:57:26-04:00",
+      "active": "46670db6bb06b0e2",
+      "mtime": "2026-06-15T14:32:24-04:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "3-拟用素材",
-          "5-最终文稿",
+          "0-辅助材料",
+          "0-辅助材料/4-工作区设置",
+          "0-辅助材料/5-说明书",
           "6-文件夹汇总",
           "6-文件夹汇总/0-辅助材料",
+          "6-文件夹汇总/1-文献输入",
           "6-文件夹汇总/2-文献摘抄"
         ]
       }
     }
   },
-  "active": "主页"
+  "active": "摘要和引言阅读"
 }
