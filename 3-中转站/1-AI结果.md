@@ -1,10 +1,6 @@
 ---
 待处理: false
 配置键:
-  - 
-  - 
-  - 
-  - results_ai_output_file
   - review_chain_ai_result
   - review_knowledge_ai_result
 中转站作用:
